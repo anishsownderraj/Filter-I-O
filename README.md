@@ -4,7 +4,7 @@ Using Makefile to run the program:
 
 By typing make or make all both commands `clang -Wall -Wpedantic -Wextra -Werror hatterspeak.c -o hatterspeak`and `./hatterspeak -[shf] -[shf] -[shf] -[mb]` will compile and run the program.
 `make clean` will clear out any executables or object files in your current working directory.
-'make infer' runs infer on the program.
+`make infer` runs infer on the program.
 
 Inputting -s will suppres the letter from the censor
 
