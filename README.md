@@ -1,5 +1,9 @@
 Directions to use my program:
 
+References:
+
+parser.c and speck.c were given to me, all other files I impelemented
+
 Using Makefile to run the program:
 
 By typing `make` or `make all` both commands `clang -Wall -Wpedantic -Wextra -Werror hatterspeak.c -o hatterspeak`and `./hatterspeak -[shf] -[shf] -[shf] -[mb]` will compile and run the program.
