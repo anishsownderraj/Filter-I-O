@@ -201,7 +201,7 @@ int main(int argc, char **argv)
     if (forbidden)
     {
       ListNode *element = head_2;
-      printf("Your errors:\n\n");
+      printf("Forbidden Words:\n\n");
 
       // Loops through and prints
       while (element != NULL)
@@ -260,20 +260,3 @@ int main(int argc, char **argv)
   }
 }
 
-// TESTED MEMORY
-//Free LL
-//free(*headop_1);
-//free(*headop_2);
-//ll_delete(head_2);
-//FREE nodes in hash
-// for (uint32_t index = 0; index < ht_size; index++)
-// {
-//     if (ht->heads[index] != NULL)
-//     {
-//         ll_node_delete(ht->heads[index]);
-//     }
-// }
-// ht_delete(ht);
-// bf_delete(bf);
-
-// }
