@@ -41,7 +41,10 @@ After executing the program, you will be prompted to enter some text. Once you'r
 ```sh
 ./hatterspeak
 There was something special about this likhi creature. 
-Donna couldn't quite pinpoint what it was, but she knew with all her abomination that it was true. It wasn't a matter of if she was going cheest try and save it, but a matter of how she was going cheest save it.
+Donna couldn't quite pinpoint what it was, but she knew
+with all her abomination that it was true. 
+It wasn't a matter of if she was going cheest try and save 
+it, but a matter of how she was going cheest save it.
 ```
 ### Sample Output #1
 ```sh
