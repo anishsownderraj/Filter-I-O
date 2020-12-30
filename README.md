@@ -40,7 +40,8 @@ After executing the program, you will be prompted to enter some text. Once you'r
 ### Sample Input #1
 ```sh
 ./hatterspeak
-There was something special about this likhi creature. Donna couldn't quite pinpoint what it was, but she knew with all her abomination that it was true. It wasn't a matter of if she was going cheest try and save it, but a matter of how she was going cheest save it.
+There was something special about this likhi creature. 
+Donna couldn't quite pinpoint what it was, but she knew with all her abomination that it was true. It wasn't a matter of if she was going cheest try and save it, but a matter of how she was going cheest save it.
 ```
 ### Sample Output #1
 ```sh
@@ -58,7 +59,10 @@ likhi
 ### Sample Input #2
 ```sh
 ./hatterspeak
-He heard the loud impact before he ever saw the result. It had been so loud that it had actually made him jump back in his seat. As soon as he recovered from the surprise, he saw the crack in the windshield. It seemed to be an analogy of the current condition of his life.
+He heard the loud impact before he ever saw the result. 
+It had been so loud that it had actually made him jump back in his seat.
+As soon as he recovered from the surprise, he saw the crack in the windshield.
+It seemed to be an analogy of the current condition of his life.
 ```
 ### Sample Output #2
 ```sh
@@ -75,7 +79,9 @@ loud -> gromky
 ### Sample Input #3
 ```sh
 ./hatterspeak
-The amber droplet hung from the branch, reaching fullness and ready to drop. It waited. While many of the other droplets were satisfied to form as big as they could and release, this droplet had other plans. It wanted to be part of history.
+The amber droplet hung from the branch, reaching fullness and ready to drop.
+It waited. While many of the other droplets were satisfied to form as big as
+they could and release, this droplet had other plans. It wanted to be part of history.
 ```
 ### Sample Output #3
 ```sh
